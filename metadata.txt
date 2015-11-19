@@ -1,6 +1,6 @@
 [general]
 name=ExportMapserverStyle
-description=Export QGis Colormap to mapserver STYLE
+description=Export QGIS Colormap to Mapserver format
 version=1.0
 qgisMinimumVersion=2.0
 author=Peter Petrik
