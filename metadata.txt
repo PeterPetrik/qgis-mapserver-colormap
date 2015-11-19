@@ -1,0 +1,7 @@
+[general]
+name=ExportMapserverStyle
+description=Export QGis Colormap to mapserver STYLE
+version=1.0
+qgisMinimumVersion=2.0
+author=Peter Petrik
+email=zilolv@gmail.com
