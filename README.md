@@ -3,6 +3,5 @@
 * Specify colormap (e.g. "Greens")
 * Specify minimum pixel value
 * Specify maximum pixel value
-* Specify NODATA pixel value
 * Specify if colormap should be inverted
 * Click OK and copy styling to your mapfile
